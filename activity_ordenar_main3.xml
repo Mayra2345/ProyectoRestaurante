@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Menu de ordenar pero de manera Vertical -->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    tools:context=".OrdenarMain3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Cual es tu nombre?"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <EditText
+            android:id="@+id/nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Genero"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <RadioGroup
+            android:id="@+id/genero"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/hombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="Masculino"
+                android:textColorLink="@android:color/holo_orange_dark" />
+
+            <RadioButton
+                android:id="@+id/mujer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Femenino"
+                android:textColorLink="@android:color/holo_orange_dark" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Notas ( Comidas especiales)"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <EditText
+            android:id="@+id/imagen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Que deseas ordenar?"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkLunes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Enchiladas"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkMartes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Pozole"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkMiercoles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Coca-cola"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkJueves"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Pepsi"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkViernes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Pastel"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkSabado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="seleccionarCheck"
+            android:text="Pay"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <CheckBox
+            android:id="@+id/checkDomingo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:onClick="seleccionarCheck"
+            android:text="¿Deseas dejar propina?" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Te gusto el servicio?"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <RadioGroup
+            android:id="@+id/estudiar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/si"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Si"
+                android:textColorLink="@android:color/holo_orange_dark" />
+
+            <RadioButton
+                android:id="@+id/no"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="No"
+                android:textColorLink="@android:color/holo_orange_dark" />
+
+            <RadioButton
+                android:id="@+id/masmenos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Mas o menos"
+                android:textColorLink="@android:color/holo_orange_dark" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="¿Que opinas sobre el restaurante?"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <EditText
+            android:id="@+id/escuela"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recomendaciones"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <EditText
+            android:id="@+id/encuesta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textColorLink="@android:color/holo_orange_dark" />
+
+        <Button
+            android:id="@+id/enviar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="#f68e8e"
+            android:text="Ordenar"
+            android:textColorLink="@android:color/holo_orange_dark" />
+    </LinearLayout>
+
+</ScrollView>
