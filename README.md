@@ -32,13 +32,44 @@ Su proyecto será evaluado utilizando la rúbrica del proyecto.
 
 Haga click en la imagen para ver la pagina principal de la aplicacion
 
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgmt5JZctMLs526qS"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgmt5JZctMLs526qS" /></a>
+
+
 Haga click en la imagen para ver el menu principal de la aplicacion
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgmw-_I48Stv9Zb4S"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgmw-_I48Stv9Zb4S" /></a>
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgm0vckUpLcWF21Sv"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgm0vckUpLcWF21Sv" /></a>
+
 
 Haga click en la imagen para ver la funcionalidad extra de la aplicacion
 
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgm0vckUpLcWF21Sv"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgm0vckUpLcWF21Sv" /></a>
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgm7WVIljuIgCn9eI"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgm7WVIljuIgCn9eI" /></a>
+
 Haga click en la imagen para ver la el cuestionario de la apliacion
 
+<a href="https://1drv.ms/u/s!Aizy46b43OzzgnAnqw8qq_Wwz-Xn"><img src="https://1drv.ms/u/s!Aizy46b43OzzgnAnqw8qq_Wwz-Xn" /></a>
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43OzzgnKXhUxVED0cJ8lj"><img src="https://1drv.ms/u/s!Aizy46b43OzzgnKXhUxVED0cJ8lj" /></a>
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx"><img src="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx" /></a>
+
+
+
 Haga click en la imagen para ver el correo y verificar que llego con exito el mensaje
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx"><img src="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx" /></a>
+
+
+
+<a href="https://1drv.ms/u/s!Aizy46b43Ozzgmq6vztoqy1WPH8U"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgmq6vztoqy1WPH8U" /></a>
 
 
 **---------------------------- SOFTWARE LIBRE ----------------------------**
