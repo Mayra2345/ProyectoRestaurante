@@ -14,6 +14,7 @@ mínimo de 8 preguntas y un máximo de 15 preguntas de prueba para la presentaci
 aplicación).
 
 ---------------------------- DESARROLLO----------------------------
+
 Para completar este proyecto, deberá diseñar un diseño de cuestionario e implementarlo en una
 aplicación. El cuestionario puede ser sobre cualquier tema de su elección, y se le anima a crear uno
 sobre un tema que le parezca personalmente interesante.
@@ -26,7 +27,9 @@ Paso 3. Finalmente, escribe el código para el botón que envie tus respuestas. 
 a través de cada pregunta en la aplicación, registrar la respuesta del usuario y luego mostrar los
 resultados del cuestionario adjunto en un archivo de texto en un mensaje de correo electrónico.
 Su proyecto será evaluado utilizando la rúbrica del proyecto.
+
 ---------------------------- RESULTADOS ---------------------------
+
 Haga click en la imagen para ver la pagina principal de la aplicacion
 
 Haga click en la imagen para ver el menu principal de la aplicacion
