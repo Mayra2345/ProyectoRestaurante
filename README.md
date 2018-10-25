@@ -50,12 +50,14 @@ Haga click en la imagen para ver la funcionalidad extra de la aplicacion
 
 <a href="https://1drv.ms/u/s!Aizy46b43Ozzgm7WVIljuIgCn9eI"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgm7WVIljuIgCn9eI" /></a>
 
-Haga click en la imagen para ver la el cuestionario de la apliacion
-
+Haga click en la imagen para ver la el cuestionario de la apliacion VERTICAL
+ 
 <a href="https://1drv.ms/u/s!Aizy46b43OzzgnAnqw8qq_Wwz-Xn"><img src="https://1drv.ms/u/s!Aizy46b43OzzgnAnqw8qq_Wwz-Xn" /></a>
 
 
 <a href="https://1drv.ms/u/s!Aizy46b43OzzgnKXhUxVED0cJ8lj"><img src="https://1drv.ms/u/s!Aizy46b43OzzgnKXhUxVED0cJ8lj" /></a>
+
+Haga click en la imagen para ver la el cuestionario de la apliacion HORIZONTAL
 
 
 <a href="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx"><img src="https://1drv.ms/u/s!Aizy46b43OzzgmnMZtsuPXtG2TKx" /></a>
