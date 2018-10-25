@@ -19,10 +19,14 @@ Para completar este proyecto, deberá diseñar un diseño de cuestionario e impl
 aplicación. El cuestionario puede ser sobre cualquier tema de su elección, y se le anima a crear uno
 sobre un tema que le parezca personalmente interesante.
 Querrá construir este proyecto en pasos.
+
+
 Paso 1. Primero, construye el diseño. Esto implica crear las preguntas del cuestionario, decidir qué tipo de
 prueba serán y formatearlas en el archivo de diseño xml para su actividad.
+
 Paso 2. En segundo lugar, querrá escribir un código que vincule el diseño a la actividad. Para el paso 3,
 querrá variables que se refieran a cada una de las respuestas al cuestionario.
+
 Paso 3. Finalmente, escribe el código para el botón que envie tus respuestas. Este código debe ejecutarse
 a través de cada pregunta en la aplicación, registrar la respuesta del usuario y luego mostrar los
 resultados del cuestionario adjunto en un archivo de texto en un mensaje de correo electrónico.
