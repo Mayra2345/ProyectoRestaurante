@@ -13,6 +13,12 @@ preguntas de la prueba y cómo desea presentarlas a su usuario. (Según la rúbr
 mínimo de 8 preguntas y un máximo de 15 preguntas de prueba para la presentación correcta de la
 aplicación).
 
+## INTEGRANTES DEL EQUIPO
+
+ - Maura Monserrat Gaspar Venegas
+ - Karla Del Rocío Reyes Ramírez
+ - Miguel Ángel Rodríguez González
+
 ## DESARROLLO
 
 Para completar este proyecto, deberá diseñar un diseño de cuestionario e implementarlo en una
@@ -31,28 +37,30 @@ Su proyecto será evaluado utilizando la rúbrica del proyecto.
 
 ## RESULTADOS
 
-Vista principal
+#### Vista principal
 
 ![Vista Principal](https://image.ibb.co/khSDDV/bienvenido.jpg)
 
-
-Menu Principal
+#### Menu Principal
 
 ![Menu](https://image.ibb.co/gZKofA/menu.jpg)
+
+#### Funcionalidad Extra
 
 ![Funcionalidad Extra](https://image.ibb.co/cyLWiV/funcionalidadextra1.jpg)
 ![Funcionalidad Extra](https://image.ibb.co/cgSYxq/funcionalidadextra.jpg)
 
-Cuestionario de la Aplicación
+#### Cuestionario de la Aplicación
  
 ![Formulario](https://image.ibb.co/cVmAcq/formulario.jpg)
 
 ![Formlario Relleno](https://image.ibb.co/eUzwHq/formulatio1.jpg)
 
-Cuestionario posición horizontal
+#### Cuestionario posición horizontal
 
 ![Formulario Horizontal](https://preview.ibb.co/mwBMiV/horizontal1.jpg)
-Verificación de Correo y archivo generado
+
+#### Verificación de Correo y archivo generado
 ![Correo](https://image.ibb.co/fcMnOV/archivo.jpg)
 
 
